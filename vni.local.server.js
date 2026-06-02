@@ -77,7 +77,7 @@ const server = http.createServer(async (req, res) => {
                 "outboundTag": "bye",
                 "type": "field"
             })
-            server.outbounds.unshift({
+            server.outbounds.push({
                 "protocol": "socks",
                 "settings": {
                     "servers": [
