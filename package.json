@@ -1,0 +1,20 @@
+{
+  "name": "vniparsingserver",
+  "version": "1.0.0",
+  "main": "vni.local.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node vni.local.server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarlja/vniParsingServer.git"
+  },
+  "author": "Tarlja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarlja/vniParsingServer/issues"
+  },
+  "homepage": "https://github.com/Tarlja/vniParsingServer#readme",
+  "description": ""
+}
